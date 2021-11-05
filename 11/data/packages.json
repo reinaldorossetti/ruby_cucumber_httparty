@@ -4,13 +4,13 @@
     "name" : "Aprendendo o verbo GET",
     "children" : [ {
       "name" : "consultas no portal VR",
-      "uid" : "36b349bc6c99fc6d",
+      "uid" : "f373d9e491ae3d81",
       "parentUid" : "b6f877323d904c20c6c517f9bab75ffb",
       "status" : "passed",
       "time" : {
-        "start" : 1636133384733,
-        "stop" : 1636133385993,
-        "duration" : 1260
+        "start" : 1636133948140,
+        "stop" : 1636133949860,
+        "duration" : 1720
       },
       "flaky" : false,
       "newFailed" : false,

@@ -1,10 +1,10 @@
 [ {
-  "uid" : "36b349bc6c99fc6d",
+  "uid" : "f373d9e491ae3d81",
   "name" : "consultas no portal VR",
   "time" : {
-    "start" : 1636133384733,
-    "stop" : 1636133385993,
-    "duration" : 1260
+    "start" : 1636133948140,
+    "stop" : 1636133949860,
+    "duration" : 1720
   },
   "status" : "passed",
   "severity" : "normal"

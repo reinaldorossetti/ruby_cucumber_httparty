@@ -1,12 +1,12 @@
 {
-  "uid" : "36b349bc6c99fc6d",
+  "uid" : "f373d9e491ae3d81",
   "name" : "consultas no portal VR",
   "fullName" : "Aprendendo o verbo GET: consultas no portal VR",
   "historyId" : "6a6cdfde67c0d68bbb8417146d293351",
   "time" : {
-    "start" : 1636133384733,
-    "stop" : 1636133385993,
-    "duration" : 1260
+    "start" : 1636133948140,
+    "stop" : 1636133949860,
+    "duration" : 1720
   },
   "description" : "Location - features/specs/verbo_get.feature:11",
   "descriptionHtml" : "Location - features/specs/verbo_get.feature:11",
@@ -21,9 +21,9 @@
     "steps" : [ {
       "name" : "Dado que eu faca um GET no endpoint de consulta no portal VR",
       "time" : {
-        "start" : 1636133384733,
-        "stop" : 1636133385988,
-        "duration" : 1255
+        "start" : 1636133948140,
+        "stop" : 1636133949856,
+        "duration" : 1716
       },
       "status" : "passed",
       "steps" : [ ],
@@ -36,9 +36,9 @@
     }, {
       "name" : "Quando seleciono um estabelecimento aleatoriamente",
       "time" : {
-        "start" : 1636133385989,
-        "stop" : 1636133385990,
-        "duration" : 1
+        "start" : 1636133949856,
+        "stop" : 1636133949858,
+        "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
@@ -51,8 +51,8 @@
     }, {
       "name" : "Entao valido o json schema do estabelecimento",
       "time" : {
-        "start" : 1636133385990,
-        "stop" : 1636133385992,
+        "start" : 1636133949858,
+        "stop" : 1636133949860,
         "duration" : 2
       },
       "status" : "passed",
@@ -101,10 +101,10 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "47292215982440"
+    "value" : "46958973032800"
   }, {
     "name" : "host",
-    "value" : "fv-az129-403"
+    "value" : "fv-az81-1"
   }, {
     "name" : "language",
     "value" : "ruby"
@@ -122,6 +122,6 @@
     "categories" : [ ],
     "tags" : [ "executa_get", "get" ]
   },
-  "source" : "36b349bc6c99fc6d.json",
+  "source" : "f373d9e491ae3d81.json",
   "parameterValues" : [ ]
 }

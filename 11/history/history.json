@@ -9,13 +9,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "36b349bc6c99fc6d",
-      "reportUrl" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty/10//#testresult/36b349bc6c99fc6d",
+      "uid" : "f373d9e491ae3d81",
+      "reportUrl" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty/11//#testresult/f373d9e491ae3d81",
       "status" : "passed",
       "time" : {
-        "start" : 1636133384733,
-        "stop" : 1636133385993,
-        "duration" : 1260
+        "start" : 1636133948140,
+        "stop" : 1636133949860,
+        "duration" : 1720
       }
     } ]
   }

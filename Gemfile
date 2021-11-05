@@ -8,3 +8,4 @@ gem 'rspec', '3.7.0'
 gem 'nokogiri'
 gem 'json_matchers'
 gem "allure-cucumber"
+gem 'rest-client'

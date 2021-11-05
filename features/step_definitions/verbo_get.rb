@@ -1,10 +1,8 @@
 ﻿#language: pt
 #encoding: utf-8
-require "json"
 
 Dado('que eu faca um GET no endpoint de consulta no portal VR') do
-  Http.headers('cookie' => JSON.parse(open($COOKIE_FILE).read)['cookies'])
-  @get_clientes = Http.get 'https://portal.vr.com.br/api-web/comum/enumerations/VRPAT'
+  @get_clientes = Http.get '/api-web/comum/enumerations/VRPAT'
 end
 
 Quando('seleciono um estabelecimento aleatoriamente') do

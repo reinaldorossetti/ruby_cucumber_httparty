@@ -36,6 +36,10 @@ https://www.loom.com/share/0d81599eeda64b47ba0a26d170a378d8
 - Precisa atualizar a session pegando o valor do site e adicionando no arquivo abaixo:
 https://github.com/reinaldorossetti/ruby_cucumber_httparty/blob/main/features/support/headers/cookie.json
 
+Para adiciona compatibilidade com linux x86 e x64 na esteira, rode esse comando local.
+```
+bundle lock --add-platform x86_64-linux
+```
 Referências:  
 https://github.com/ruby-json-schema/json-schema/tree/master  
 https://github.com/jnunemaker/httparty  

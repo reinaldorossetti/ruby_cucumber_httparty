@@ -1,0 +1,11 @@
+[ {
+  "uid" : "8448a753fb59aee8",
+  "name" : "consultas no portal VR",
+  "time" : {
+    "start" : 1636132047638,
+    "stop" : 1636132049903,
+    "duration" : 2265
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

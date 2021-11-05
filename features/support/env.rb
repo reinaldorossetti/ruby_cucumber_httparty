@@ -19,5 +19,6 @@ end
 schema_directory = "#{Dir.pwd}/features/support/json_schema"
 p $SCHEMA_JSON = "#{schema_directory}/establishment.json"
 JsonMatchers.schema_root = schema_directory
-
+# pegado os cookies.
+$COOKIE_FILE = "#{Dir.pwd}/features/support/headers/cookie.json"
 

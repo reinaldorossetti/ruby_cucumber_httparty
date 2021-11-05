@@ -22,6 +22,7 @@ bundle install
 
 ```
 bundle exec cucumber
+bundle exec cucumber features/specs/verbo_get.feature
 ```
 Para visualizar o relatório gerado do allure report, segue o link abaixo:
 ```

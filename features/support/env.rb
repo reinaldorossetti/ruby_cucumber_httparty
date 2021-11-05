@@ -6,8 +6,6 @@ require 'cpf_faker'
 require 'json'
 require "json_matchers/rspec"
 require "allure-cucumber"
-require 'rest-client'
-require 'Nokogiri'
 
 # url do meu end point
 URL = 'https://portal.vr.com.br/'

@@ -6,13 +6,13 @@
       "name" : "consultas no portal VR",
       "children" : [ {
         "name" : "consultas no portal VR",
-        "uid" : "f373d9e491ae3d81",
+        "uid" : "e85c08f56ab239ec",
         "parentUid" : "1248df6fdc5afc5d3d663ac46651bdf5",
         "status" : "passed",
         "time" : {
-          "start" : 1636133948140,
-          "stop" : 1636133949860,
-          "duration" : 1720
+          "start" : 1636134241626,
+          "stop" : 1636134242510,
+          "duration" : 884
         },
         "flaky" : false,
         "newFailed" : false,

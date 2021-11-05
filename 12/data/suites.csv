@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Fri Nov 05 17:44:01 GMT 2021","Fri Nov 05 17:44:02 GMT 2021","884","","Aprendendo o verbo GET","","consultas no portal VR","","consultas no portal VR","Location - features/specs/verbo_get.feature:11"

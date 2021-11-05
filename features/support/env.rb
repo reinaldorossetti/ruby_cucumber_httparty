@@ -5,6 +5,7 @@ require 'faker'
 require 'cpf_faker'
 require 'json'
 require "json_matchers/rspec"
+require "allure-cucumber"
 
 # adiciono um modulo pra configurar o httparty.
 module Http

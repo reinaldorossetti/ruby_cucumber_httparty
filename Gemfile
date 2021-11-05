@@ -7,4 +7,4 @@ gem 'httparty', '0.15.6'
 gem 'rspec', '3.7.0'
 gem 'nokogiri'
 gem 'json_matchers'
-
+gem "allure-cucumber"

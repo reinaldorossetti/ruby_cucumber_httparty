@@ -1,12 +1,12 @@
 {
-  "uid" : "8448a753fb59aee8",
+  "uid" : "36b349bc6c99fc6d",
   "name" : "consultas no portal VR",
   "fullName" : "Aprendendo o verbo GET: consultas no portal VR",
   "historyId" : "6a6cdfde67c0d68bbb8417146d293351",
   "time" : {
-    "start" : 1636132047638,
-    "stop" : 1636132049903,
-    "duration" : 2265
+    "start" : 1636133384733,
+    "stop" : 1636133385993,
+    "duration" : 1260
   },
   "description" : "Location - features/specs/verbo_get.feature:11",
   "descriptionHtml" : "Location - features/specs/verbo_get.feature:11",
@@ -21,9 +21,9 @@
     "steps" : [ {
       "name" : "Dado que eu faca um GET no endpoint de consulta no portal VR",
       "time" : {
-        "start" : 1636132047638,
-        "stop" : 1636132049900,
-        "duration" : 2262
+        "start" : 1636133384733,
+        "stop" : 1636133385988,
+        "duration" : 1255
       },
       "status" : "passed",
       "steps" : [ ],
@@ -36,9 +36,9 @@
     }, {
       "name" : "Quando seleciono um estabelecimento aleatoriamente",
       "time" : {
-        "start" : 1636132049900,
-        "stop" : 1636132049902,
-        "duration" : 2
+        "start" : 1636133385989,
+        "stop" : 1636133385990,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
@@ -51,9 +51,9 @@
     }, {
       "name" : "Entao valido o json schema do estabelecimento",
       "time" : {
-        "start" : 1636132049902,
-        "stop" : 1636132049903,
-        "duration" : 1
+        "start" : 1636133385990,
+        "stop" : 1636133385992,
+        "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
@@ -101,7 +101,7 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "47369753983340"
+    "value" : "47292215982440"
   }, {
     "name" : "host",
     "value" : "fv-az129-403"
@@ -122,6 +122,6 @@
     "categories" : [ ],
     "tags" : [ "executa_get", "get" ]
   },
-  "source" : "8448a753fb59aee8.json",
+  "source" : "36b349bc6c99fc6d.json",
   "parameterValues" : [ ]
 }

@@ -28,6 +28,13 @@ Para visualizar o relatório gerado do allure report, segue o link abaixo:
 ```
 https://reinaldorossetti.github.io/ruby_cucumber_httparty/
 ```
+Vídeos curtos do nosso projeto, somente pra explicar a lógica e execução:
+https://www.loom.com/share/f82c0068aae147dc8f0220570a0687fa
+https://www.loom.com/share/0d81599eeda64b47ba0a26d170a378d8
+
+** Obs:
+- Precisa atualizar a session pegando o valor do site e adicionando no arquivo abaixo:
+https://github.com/reinaldorossetti/ruby_cucumber_httparty/blob/main/features/support/headers/cookie.json
 
 Referências:  
 https://github.com/ruby-json-schema/json-schema/tree/master  

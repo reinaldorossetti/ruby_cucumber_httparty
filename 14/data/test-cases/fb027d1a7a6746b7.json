@@ -1,0 +1,120 @@
+{
+  "uid" : "fb027d1a7a6746b7",
+  "name" : "consultas negativa no portal VR",
+  "fullName" : "Aprendendo o verbo GET: consultas negativa no portal VR",
+  "historyId" : "859a5b1b733359b41c68942dd6aa4de1",
+  "time" : {
+    "start" : 1636209943175,
+    "stop" : 1636209958200,
+    "duration" : 15025
+  },
+  "description" : "Location - features/specs/verbo_get.feature:18",
+  "descriptionHtml" : "Location - features/specs/verbo_get.feature:18",
+  "status" : "failed",
+  "statusMessage" : "\nexpected: 200\n     got: 503\n\n(compared using ==)\n",
+  "statusTrace" : "/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-support-3.7.0/lib/rspec/support.rb:97:in `block in <module:Support>'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-support-3.7.0/lib/rspec/support.rb:106:in `notify_failure'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/fail_with.rb:35:in `fail_with'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:38:in `handle_failure'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:50:in `block in handle_matcher'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:27:in `with_matcher'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:48:in `handle_matcher'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/expectation_target.rb:65:in `to'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/features/step_definitions/verbo_get.rb:25:in `/^valido a resposta de error$/'\nfeatures/specs/verbo_get.feature:21:in `Entao valido a resposta de error'",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Location - features/specs/verbo_get.feature:18",
+    "descriptionHtml" : "Location - features/specs/verbo_get.feature:18",
+    "status" : "failed",
+    "statusMessage" : "\nexpected: 200\n     got: 503\n\n(compared using ==)\n",
+    "statusTrace" : "/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-support-3.7.0/lib/rspec/support.rb:97:in `block in <module:Support>'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-support-3.7.0/lib/rspec/support.rb:106:in `notify_failure'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/fail_with.rb:35:in `fail_with'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:38:in `handle_failure'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:50:in `block in handle_matcher'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:27:in `with_matcher'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/handler.rb:48:in `handle_matcher'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/vendor/bundle/ruby/2.6.0/gems/rspec-expectations-3.7.0/lib/rspec/expectations/expectation_target.rb:65:in `to'\n/home/runner/work/ruby_cucumber_httparty/ruby_cucumber_httparty/features/step_definitions/verbo_get.rb:25:in `/^valido a resposta de error$/'\nfeatures/specs/verbo_get.feature:21:in `Entao valido a resposta de error'",
+    "steps" : [ {
+      "name" : "Dado que eu faca um GET no endpoint de consulta no portal VR sem token",
+      "time" : {
+        "start" : 1636209943176,
+        "stop" : 1636209958183,
+        "duration" : 15007
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Entao valido a resposta de error",
+      "time" : {
+        "start" : 1636209958183,
+        "stop" : 1636209958200,
+        "duration" : 17
+      },
+      "status" : "failed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "cucumber"
+  }, {
+    "name" : "feature",
+    "value" : "Aprendendo o verbo GET"
+  }, {
+    "name" : "package",
+    "value" : "Aprendendo o verbo GET"
+  }, {
+    "name" : "suite",
+    "value" : "Aprendendo o verbo GET"
+  }, {
+    "name" : "story",
+    "value" : "consultas negativa no portal VR"
+  }, {
+    "name" : "testClass",
+    "value" : "consultas negativa no portal VR"
+  }, {
+    "name" : "tag",
+    "value" : "get"
+  }, {
+    "name" : "tag",
+    "value" : "executa_get_neg"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "47406589335920"
+  }, {
+    "name" : "host",
+    "value" : "fv-az31-336"
+  }, {
+    "name" : "language",
+    "value" : "ruby"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ "get", "executa_get_neg" ]
+  },
+  "source" : "fb027d1a7a6746b7.json",
+  "parameterValues" : [ ]
+}

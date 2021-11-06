@@ -20,7 +20,7 @@ module Http
   format :json
   open_timeout 30
   follow_redirects false
-  headers 'Content-Type' => 'application/json', 'cookie' => $COOKIES
+  headers 'Content-Type' => 'application/json'
 end
 
 # Configurando o Json Schema.

@@ -1,0 +1,21 @@
+[ {
+  "uid" : "97d0cb7bf99027dc",
+  "name" : "consultas no portal VR",
+  "time" : {
+    "start" : 1636210466475,
+    "stop" : 1636210467597,
+    "duration" : 1122
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4d231d6f89f66375",
+  "name" : "consultas negativa no portal VR",
+  "time" : {
+    "start" : 1636210467598,
+    "stop" : 1636210468419,
+    "duration" : 821
+  },
+  "status" : "failed",
+  "severity" : "normal"
+} ]

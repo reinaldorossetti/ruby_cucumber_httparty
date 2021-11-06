@@ -1,0 +1,43 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Aprendendo o verbo GET",
+    "children" : [ {
+      "name" : "consultas no portal VR",
+      "children" : [ {
+        "name" : "consultas no portal VR",
+        "uid" : "97d0cb7bf99027dc",
+        "parentUid" : "1248df6fdc5afc5d3d663ac46651bdf5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1636210466475,
+          "stop" : 1636210467597,
+          "duration" : 1122
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1248df6fdc5afc5d3d663ac46651bdf5"
+    }, {
+      "name" : "consultas negativa no portal VR",
+      "children" : [ {
+        "name" : "consultas negativa no portal VR",
+        "uid" : "4d231d6f89f66375",
+        "parentUid" : "0ce06d053c0a5370306fe819ccd5c818",
+        "status" : "failed",
+        "time" : {
+          "start" : 1636210467598,
+          "stop" : 1636210468419,
+          "duration" : 821
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "0ce06d053c0a5370306fe819ccd5c818"
+    } ],
+    "uid" : "3d51b4a7adb4bb081fabede5d5355ae8"
+  } ],
+  "name" : "behaviors"
+}

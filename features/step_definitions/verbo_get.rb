@@ -2,6 +2,7 @@
 #encoding: utf-8
 
 Dado('que eu faca um GET no endpoint de consulta no portal VR') do
+  Http.headers 'cookie' => $COOKIES
   @get_clientes = Http.get '/api-web/comum/enumerations/VRPAT'
 end
 

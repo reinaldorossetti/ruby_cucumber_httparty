@@ -13,3 +13,9 @@ Cenario: consultas no portal VR
   Dado que eu faca um GET no endpoint de consulta no portal VR
   Quando seleciono um estabelecimento aleatoriamente
   Entao valido o json schema do estabelecimento
+
+@executa_get_neg
+Cenario: consultas negativa no portal VR
+
+  Dado que eu faca um GET no endpoint de consulta no portal VR sem token
+  Entao valido a resposta de error

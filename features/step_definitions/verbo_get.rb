@@ -15,3 +15,14 @@ Entao('valido o json schema do estabelecimento') do
   expect(@get_clientes.code).to eq 200
   expect(@establishment).to match_json_schema('establishment')
 end
+
+When(/^que eu faca um GET no endpoint de consulta no portal VR sem token$/) do
+  Http.headers 'cookie' => ""
+  @get_clientes = Http.get '/api-web/comum/enumerations/VRPAT'
+end
+
+When(/^valido a resposta de error$/) do
+  expect(@get_clientes.code).to eq 200
+  puts @get_clientes.body
+  expect(@get_clientes.body).to include("Request unsuccessful. Incapsula incident")
+end

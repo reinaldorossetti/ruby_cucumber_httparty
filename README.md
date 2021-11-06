@@ -28,7 +28,13 @@ Para visualizar o relatório gerado do allure report, segue o link abaixo:
 ```
 https://reinaldorossetti.github.io/ruby_cucumber_httparty/
 ```
+Para adiciona compatibilidade com linux x86 e x64
+bundle lock --add-platform x86_64-linux
 
+Rodar local com report do cucumber.
+```
+bundle exec cucumber --format html --out=report/report.html
+```
 Referências:  
 https://github.com/ruby-json-schema/json-schema/tree/master  
 https://github.com/jnunemaker/httparty  

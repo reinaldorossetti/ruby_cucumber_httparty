@@ -11,7 +11,7 @@ require "allure-cucumber"
 URL = 'https://portal.vr.com.br/'
 # pegado os cookies.
 COOKIE_FILE = "#{Dir.pwd}/features/support/headers/cookie.json"
-COOKIES = (JSON.parse(open(COOKIE_FILE).read))['cookies'].to_s
+$COOKIES = (JSON.parse(open(COOKIE_FILE).read))['cookies'].to_s
 
 # adiciono um modulo pra configurar o httparty.
 module Http
@@ -20,7 +20,7 @@ module Http
   format :json
   open_timeout 30
   follow_redirects false
-  headers 'Content-Type' => 'application/json', 'cookie' => COOKIES
+  headers 'Content-Type' => 'application/json', 'cookie' => $COOKIES
 end
 
 # Configurando o Json Schema.

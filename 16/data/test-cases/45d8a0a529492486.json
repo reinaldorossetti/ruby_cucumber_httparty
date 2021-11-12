@@ -1,12 +1,12 @@
 {
-  "uid" : "4d231d6f89f66375",
+  "uid" : "45d8a0a529492486",
   "name" : "consultas negativa no portal VR",
   "fullName" : "Aprendendo o verbo GET: consultas negativa no portal VR",
   "historyId" : "859a5b1b733359b41c68942dd6aa4de1",
   "time" : {
-    "start" : 1636210467598,
-    "stop" : 1636210468419,
-    "duration" : 821
+    "start" : 1636693986597,
+    "stop" : 1636693987263,
+    "duration" : 666
   },
   "description" : "Location - features/specs/verbo_get.feature:18",
   "descriptionHtml" : "Location - features/specs/verbo_get.feature:18",
@@ -25,9 +25,9 @@
     "steps" : [ {
       "name" : "Dado que eu faca um GET no endpoint de consulta no portal VR sem token",
       "time" : {
-        "start" : 1636210467598,
-        "stop" : 1636210468398,
-        "duration" : 800
+        "start" : 1636693986597,
+        "stop" : 1636693987247,
+        "duration" : 650
       },
       "status" : "passed",
       "steps" : [ ],
@@ -40,9 +40,9 @@
     }, {
       "name" : "Entao valido a resposta de error",
       "time" : {
-        "start" : 1636210468398,
-        "stop" : 1636210468419,
-        "duration" : 21
+        "start" : 1636693987247,
+        "stop" : 1636693987263,
+        "duration" : 16
       },
       "status" : "failed",
       "steps" : [ ],
@@ -90,10 +90,10 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "47236310374760"
+    "value" : "47063835621720"
   }, {
     "name" : "host",
-    "value" : "fv-az131-995"
+    "value" : "fv-az73-828"
   }, {
     "name" : "language",
     "value" : "ruby"
@@ -115,6 +115,6 @@
     } ],
     "tags" : [ "get", "executa_get_neg" ]
   },
-  "source" : "4d231d6f89f66375.json",
+  "source" : "45d8a0a529492486.json",
   "parameterValues" : [ ]
 }

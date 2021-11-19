@@ -1,12 +1,12 @@
 {
-  "uid" : "57ae1ad8a1da5009",
+  "uid" : "88ad7eb57768e57c",
   "name" : "consultas no portal VR",
   "fullName" : "Aprendendo o verbo GET: consultas no portal VR",
   "historyId" : "6a6cdfde67c0d68bbb8417146d293351",
   "time" : {
-    "start" : 1636693985733,
-    "stop" : 1636693986596,
-    "duration" : 863
+    "start" : 1637298752924,
+    "stop" : 1637298753789,
+    "duration" : 865
   },
   "description" : "Location - features/specs/verbo_get.feature:11",
   "descriptionHtml" : "Location - features/specs/verbo_get.feature:11",
@@ -21,55 +21,55 @@
     "steps" : [ {
       "name" : "Dado que eu faca um GET no endpoint de consulta no portal VR",
       "time" : {
-        "start" : 1636693985734,
-        "stop" : 1636693986592,
-        "duration" : 858
+        "start" : 1637298752924,
+        "stop" : 1637298753786,
+        "duration" : 862
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "Quando seleciono um estabelecimento aleatoriamente",
       "time" : {
-        "start" : 1636693986592,
-        "stop" : 1636693986594,
-        "duration" : 2
+        "start" : 1637298753786,
+        "stop" : 1637298753787,
+        "duration" : 1
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "hasContent" : false,
+      "stepsCount" : 0
     }, {
       "name" : "Entao valido o json schema do estabelecimento",
       "time" : {
-        "start" : 1636693986594,
-        "stop" : 1636693986596,
+        "start" : 1637298753787,
+        "stop" : 1637298753789,
         "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
-      "stepsCount" : 0,
       "attachmentsCount" : 0,
       "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "hasContent" : false,
+      "stepsCount" : 0
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
-    "stepsCount" : 3,
     "attachmentsCount" : 0,
     "shouldDisplayMessage" : false,
-    "hasContent" : true
+    "hasContent" : true,
+    "stepsCount" : 3
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -101,10 +101,10 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "47063835621720"
+    "value" : "47122147170660"
   }, {
     "name" : "host",
-    "value" : "fv-az73-828"
+    "value" : "fv-az76-349"
   }, {
     "name" : "language",
     "value" : "ruby"
@@ -122,6 +122,6 @@
     "categories" : [ ],
     "tags" : [ "executa_get", "get" ]
   },
-  "source" : "57ae1ad8a1da5009.json",
+  "source" : "88ad7eb57768e57c.json",
   "parameterValues" : [ ]
 }

@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty",
+  "buildOrder" : 19,
+  "buildName" : "GitHub Actions Run #1533889438",
+  "buildUrl" : "https://github.com/reinaldorossetti/ruby_cucumber_httparty/actions/runs/1533889438",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty/19/"
+} ]

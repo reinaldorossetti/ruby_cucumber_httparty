@@ -9,14 +9,14 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "a1893ce4723d21d2",
-      "reportUrl" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty/18//#testresult/a1893ce4723d21d2",
+      "uid" : "aebb77a779c5a38c",
+      "reportUrl" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty/19//#testresult/aebb77a779c5a38c",
       "status" : "failed",
       "statusDetails" : "expected \"{\\\"products\\\":[{\\\"id\\\":27,\\\"nome\\\":\\\"VR Alimenta\\xC3\\xA7\\xC3\\xA3o\\\",\\\"exibirRede\\\":true,\\\"adquirirCa...EMININO\\\",\\\"label\\\":\\\"Feminino\\\"},{\\\"key\\\":\\\"M\\\",\\\"name\\\":\\\"MASCULINO\\\",\\\"label\\\":\\\"Masculino\\\"}]}}\" to include \"Request unsuccessful. Incapsula incident\"",
       "time" : {
-        "start" : 1637903577651,
-        "stop" : 1637903578460,
-        "duration" : 809
+        "start" : 1638508389868,
+        "stop" : 1638508390526,
+        "duration" : 658
       }
     } ]
   },
@@ -30,13 +30,13 @@
       "total" : 1
     },
     "items" : [ {
-      "uid" : "8a5819906426200d",
-      "reportUrl" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty/18//#testresult/8a5819906426200d",
+      "uid" : "9fcd822fb135ad00",
+      "reportUrl" : "https://reinaldorossetti.github.io/ruby_cucumber_httparty/19//#testresult/9fcd822fb135ad00",
       "status" : "passed",
       "time" : {
-        "start" : 1637903576619,
-        "stop" : 1637903577650,
-        "duration" : 1031
+        "start" : 1638508388985,
+        "stop" : 1638508389867,
+        "duration" : 882
       }
     } ]
   }

@@ -1,3 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"failed","Fri Dec 10 05:13:24 GMT 2021","Fri Dec 10 05:13:25 GMT 2021","688","","Aprendendo o verbo GET","","consultas negativa no portal VR","","consultas negativa no portal VR","Location - features/specs/verbo_get.feature:18"
-"passed","Fri Dec 10 05:13:23 GMT 2021","Fri Dec 10 05:13:24 GMT 2021","1007","","Aprendendo o verbo GET","","consultas no portal VR","","consultas no portal VR","Location - features/specs/verbo_get.feature:11"

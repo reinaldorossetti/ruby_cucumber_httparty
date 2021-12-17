@@ -6,13 +6,13 @@
       "name" : "consultas no portal VR",
       "children" : [ {
         "name" : "consultas no portal VR",
-        "uid" : "e0e100bb72e0dc93",
+        "uid" : "8389b21e7d1bb087",
         "parentUid" : "1248df6fdc5afc5d3d663ac46651bdf5",
         "status" : "passed",
         "time" : {
-          "start" : 1639113203362,
-          "stop" : 1639113204369,
-          "duration" : 1007
+          "start" : 1639718003018,
+          "stop" : 1639718003966,
+          "duration" : 948
         },
         "flaky" : false,
         "newFailed" : false,
@@ -23,13 +23,13 @@
       "name" : "consultas negativa no portal VR",
       "children" : [ {
         "name" : "consultas negativa no portal VR",
-        "uid" : "8cb84cc284ba965f",
+        "uid" : "75062b10fa80629b",
         "parentUid" : "0ce06d053c0a5370306fe819ccd5c818",
         "status" : "failed",
         "time" : {
-          "start" : 1639113204369,
-          "stop" : 1639113205057,
-          "duration" : 688
+          "start" : 1639718003967,
+          "stop" : 1639718004672,
+          "duration" : 705
         },
         "flaky" : false,
         "newFailed" : false,

@@ -6,13 +6,13 @@
       "name" : "expected \"{\\\"products\\\":[{\\\"id\\\":27,\\\"nome\\\":\\\"VR Alimenta\\xC3\\xA7\\xC3\\xA3o\\\",\\\"exibirRede\\\":true,\\\"adquirirCa...EMININO\\\",\\\"label\\\":\\\"Feminino\\\"},{\\\"key\\\":\\\"M\\\",\\\"name\\\":\\\"MASCULINO\\\",\\\"label\\\":\\\"Masculino\\\"}]}}\" to include \"Request unsuccessful. Incapsula incident\"",
       "children" : [ {
         "name" : "consultas negativa no portal VR",
-        "uid" : "bdc037aa382f484c",
+        "uid" : "5e415b35279fc07c",
         "parentUid" : "689248a5f2f92559124830fc11390cda",
         "status" : "failed",
         "time" : {
-          "start" : 1640322868328,
-          "stop" : 1640322869105,
-          "duration" : 777
+          "start" : 1640927691033,
+          "stop" : 1640927691741,
+          "duration" : 708
         },
         "flaky" : false,
         "newFailed" : false,

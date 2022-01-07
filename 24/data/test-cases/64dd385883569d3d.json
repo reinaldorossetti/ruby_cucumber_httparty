@@ -1,12 +1,12 @@
 {
-  "uid" : "5e415b35279fc07c",
+  "uid" : "64dd385883569d3d",
   "name" : "consultas negativa no portal VR",
   "fullName" : "Aprendendo o verbo GET: consultas negativa no portal VR",
   "historyId" : "859a5b1b733359b41c68942dd6aa4de1",
   "time" : {
-    "start" : 1640927691033,
-    "stop" : 1640927691741,
-    "duration" : 708
+    "start" : 1641532519001,
+    "stop" : 1641532519940,
+    "duration" : 939
   },
   "description" : "Location - features/specs/verbo_get.feature:18",
   "descriptionHtml" : "Location - features/specs/verbo_get.feature:18",
@@ -25,40 +25,40 @@
     "steps" : [ {
       "name" : "Dado que eu faca um GET no endpoint de consulta no portal VR sem token",
       "time" : {
-        "start" : 1640927691033,
-        "stop" : 1640927691704,
-        "duration" : 671
+        "start" : 1641532519001,
+        "stop" : 1641532519917,
+        "duration" : 916
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "hasContent" : false,
       "stepsCount" : 0,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "shouldDisplayMessage" : false
     }, {
       "name" : "Entao valido a resposta de error",
       "time" : {
-        "start" : 1640927691704,
-        "stop" : 1640927691741,
-        "duration" : 37
+        "start" : 1641532519917,
+        "stop" : 1641532519939,
+        "duration" : 22
       },
       "status" : "failed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "hasContent" : false,
       "stepsCount" : 0,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
+    "hasContent" : true,
     "stepsCount" : 2,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : true,
-    "hasContent" : true
+    "shouldDisplayMessage" : true
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -90,10 +90,10 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "47045836716380"
+    "value" : "47004876429660"
   }, {
     "name" : "host",
-    "value" : "fv-az35-235"
+    "value" : "fv-az82-578"
   }, {
     "name" : "language",
     "value" : "ruby"
@@ -115,6 +115,6 @@
     } ],
     "tags" : [ "get", "executa_get_neg" ]
   },
-  "source" : "5e415b35279fc07c.json",
+  "source" : "64dd385883569d3d.json",
   "parameterValues" : [ ]
 }

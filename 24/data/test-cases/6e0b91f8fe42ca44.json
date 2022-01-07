@@ -1,12 +1,12 @@
 {
-  "uid" : "99fb0a02bbd35e54",
+  "uid" : "6e0b91f8fe42ca44",
   "name" : "consultas no portal VR",
   "fullName" : "Aprendendo o verbo GET: consultas no portal VR",
   "historyId" : "6a6cdfde67c0d68bbb8417146d293351",
   "time" : {
-    "start" : 1640927689632,
-    "stop" : 1640927691032,
-    "duration" : 1400
+    "start" : 1641532518035,
+    "stop" : 1641532519000,
+    "duration" : 965
   },
   "description" : "Location - features/specs/verbo_get.feature:11",
   "descriptionHtml" : "Location - features/specs/verbo_get.feature:11",
@@ -21,55 +21,55 @@
     "steps" : [ {
       "name" : "Dado que eu faca um GET no endpoint de consulta no portal VR",
       "time" : {
-        "start" : 1640927689632,
-        "stop" : 1640927691027,
-        "duration" : 1395
+        "start" : 1641532518035,
+        "stop" : 1641532518996,
+        "duration" : 961
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "hasContent" : false,
       "stepsCount" : 0,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "shouldDisplayMessage" : false
     }, {
       "name" : "Quando seleciono um estabelecimento aleatoriamente",
       "time" : {
-        "start" : 1640927691027,
-        "stop" : 1640927691030,
-        "duration" : 3
-      },
-      "status" : "passed",
-      "steps" : [ ],
-      "attachments" : [ ],
-      "parameters" : [ ],
-      "stepsCount" : 0,
-      "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
-      "hasContent" : false
-    }, {
-      "name" : "Entao valido o json schema do estabelecimento",
-      "time" : {
-        "start" : 1640927691030,
-        "stop" : 1640927691032,
+        "start" : 1641532518996,
+        "stop" : 1641532518998,
         "duration" : 2
       },
       "status" : "passed",
       "steps" : [ ],
       "attachments" : [ ],
       "parameters" : [ ],
+      "hasContent" : false,
       "stepsCount" : 0,
       "attachmentsCount" : 0,
-      "shouldDisplayMessage" : false,
-      "hasContent" : false
+      "shouldDisplayMessage" : false
+    }, {
+      "name" : "Entao valido o json schema do estabelecimento",
+      "time" : {
+        "start" : 1641532518998,
+        "stop" : 1641532519000,
+        "duration" : 2
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "hasContent" : false,
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
     } ],
     "attachments" : [ ],
     "parameters" : [ ],
+    "hasContent" : true,
     "stepsCount" : 3,
     "attachmentsCount" : 0,
-    "shouldDisplayMessage" : false,
-    "hasContent" : true
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -101,10 +101,10 @@
     "value" : "normal"
   }, {
     "name" : "thread",
-    "value" : "47045836716380"
+    "value" : "47004876429660"
   }, {
     "name" : "host",
-    "value" : "fv-az35-235"
+    "value" : "fv-az82-578"
   }, {
     "name" : "language",
     "value" : "ruby"
@@ -122,6 +122,6 @@
     "categories" : [ ],
     "tags" : [ "executa_get", "get" ]
   },
-  "source" : "99fb0a02bbd35e54.json",
+  "source" : "6e0b91f8fe42ca44.json",
   "parameterValues" : [ ]
 }

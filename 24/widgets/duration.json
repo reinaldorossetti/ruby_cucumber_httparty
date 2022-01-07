@@ -1,20 +1,20 @@
 [ {
-  "uid" : "99fb0a02bbd35e54",
+  "uid" : "6e0b91f8fe42ca44",
   "name" : "consultas no portal VR",
   "time" : {
-    "start" : 1640927689632,
-    "stop" : 1640927691032,
-    "duration" : 1400
+    "start" : 1641532518035,
+    "stop" : 1641532519000,
+    "duration" : 965
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5e415b35279fc07c",
+  "uid" : "64dd385883569d3d",
   "name" : "consultas negativa no portal VR",
   "time" : {
-    "start" : 1640927691033,
-    "stop" : 1640927691741,
-    "duration" : 708
+    "start" : 1641532519001,
+    "stop" : 1641532519940,
+    "duration" : 939
   },
   "status" : "failed",
   "severity" : "normal"
